@@ -1,0 +1,3 @@
+HSQLDB Javadoc: hsqldb.org/doc/src/
+rising-world api: https://forum.rising-world.net/board/28-plugin-diskussion/
+rising-world javadoc: https://javadoc.rising-world.net/
